@@ -1,0 +1,46 @@
+.updateUser{
+    width: 25%;
+    background-color: white;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    margin: 50px auto;
+    padding: 50px;
+}
+
+.updateUserForm{
+    margin-top: 20px;
+}
+
+.updateUserForm .inputGroup{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.updateUserForm .inputGroup label{
+    margin-bottom: 5px;
+}
+
+.updateUserForm .inputGroup input{
+    padding: 10px;
+    outline: none;
+    margin-bottom: 10px;
+}
+
+.updateUserForm .inputGroup button{
+    border: 0;
+    outline: none;
+    background-color: purple;
+    color: white;
+    padding: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+}
+
+.updateUser h3{
+    margin-top: 10px;
+}
